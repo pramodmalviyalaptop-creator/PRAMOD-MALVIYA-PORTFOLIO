@@ -24,7 +24,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/pramodmalviyalaptop-creator/PRAMOD-MALVIYA-PORTFOLIO]
 cd your-repo-name
 ````
 
